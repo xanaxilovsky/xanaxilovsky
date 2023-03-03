@@ -3,12 +3,6 @@
 I'm Mario, a Back-End developer in Paris, France
 
 
-## Github stats
-
-[![Mario's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xanaxilovsky&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
 ## Things I play with
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
